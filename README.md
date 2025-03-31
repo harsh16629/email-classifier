@@ -1,4 +1,4 @@
-# email-classifier
+# Email Classifier
 
 # Email Classification Using a Transformer-Based Model
 
